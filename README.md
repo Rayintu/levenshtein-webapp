@@ -1,27 +1,8 @@
 # LevenshteinWebapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
+## Color scheme:
+Orange: - ![#FF6900](https://placehold.it/15/ff6900/000000?text=+) `#FF6900`
+White: - ![#FFFFFF](https://placehold.it/15/ffffff/000000?text=+) `#FFFFFF`
+Grey: - ![#E6E6E6](https://placehold.it/15/e6e6e6/000000?text=+) `#E6E6E6`
+Black: - ![#000000](https://placehold.it/15/000000/000000?text=+) `#000000`
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
